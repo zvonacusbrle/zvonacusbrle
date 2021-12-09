@@ -22,5 +22,8 @@ https://wakatime.com/
 ### Coding Stats
 
 <!--START_SECTION:waka-->
-
+```text
+Kotlin   32 mins         ████████████████████████░   96.04 % 
+XML      1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+```
 <!--END_SECTION:waka-->

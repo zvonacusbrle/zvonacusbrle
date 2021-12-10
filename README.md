@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Kotlin   32 mins         ████████████████████████░   96.04 % 
-XML      1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+XML      1 hr 29 mins    ██████████████▒░░░░░░░░░░   57.45 % 
+Kotlin   1 hr 6 mins     ██████████▓░░░░░░░░░░░░░░   42.55 % 
 ```
 <!--END_SECTION:waka-->

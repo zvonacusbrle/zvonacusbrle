@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-XML      1 hr 28 mins    ██████████████████░░░░░░░   72.39 % 
-Kotlin   33 mins         ███████░░░░░░░░░░░░░░░░░░   27.61 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->

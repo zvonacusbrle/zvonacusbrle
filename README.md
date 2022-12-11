@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/32022982/206927496-5801086b-8b60-446d-b5ea-8217d0940626.png)
+![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/32022982/206927758-905e0d27-4f7c-4db6-9b5f-0bee3abc5c8e.gif)
+
+
 
 <!--
 **zvonacusbrle/zvonacusbrle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
